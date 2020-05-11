@@ -232,7 +232,7 @@ commands in R:
 install.packages("graphsim")
 ```
 
-```{r}
+```{r message=FALSE, warning=FALSE}
 #load required packages (once per R instance)
 
 library("igraph")
